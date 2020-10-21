@@ -1,0 +1,52 @@
+
+h2{
+   font-size: 80px;
+   
+}
+a{
+    font-size: 130%;
+    text-decoration: none;
+    color: peachpuff;
+    
+    
+    justify-content: space-between;
+}
+
+body{
+    background-image: url("background2.jpg");
+}
+.header{
+    
+    display:flex;
+    justify-content: space-around;
+    align-self: center;
+    border: solid "white";
+    line-height: 100%;
+}
+.head{
+    
+    padding-bottom: 12%;
+  padding: 1%;
+  border-radius: 40%;
+  line-height: 100%;
+}
+.heading{
+    color:yellow;
+}
+.menu{
+    display:flex ;
+    justify-content: space-evenly;
+    margin: 2%;
+}
+h1{
+    color: white;
+}
+p{
+    color: white;
+}
+img{
+    border-radius: 20%;
+}
+h2{
+    color: white;
+}

@@ -1,0 +1,82 @@
+body{
+    background-image: url("wallpaper.png"),url("wallpaper3.jpg");
+   
+    background-repeat: no-repeat,repeat;
+    background-size: 100% ;
+}
+a{
+    font-size: 130%;
+    text-decoration: none;
+    color: peachpuff;
+    
+    
+    justify-content: space-between;
+}
+.review{
+   display: flex;
+   justify-content: flex-end;
+   margin: 2%;
+}
+h4{
+    color: white;
+    font-size: 230%;
+    line-height: 0%;
+    font-family: cursive;
+}
+h3{
+    color: white;
+    font-size: 160%;
+    line-height: 0%;
+    font-family: cursive;
+}
+h1{
+    color: white;
+    font-size: 300%;
+    line-height: 0%;
+}
+h2{
+    color:white;
+    font-size: 150%;
+    font-style: italic;
+    font-style: oblique;
+   
+}
+p{
+   
+    color: white;
+    font-size: 180%;
+    font-style: italic;
+   
+}
+
+.header{
+    
+    display:flex;
+    justify-content: space-around;
+    align-self: center;
+    border: solid "white";
+    line-height: 100%;
+}
+.head{
+    
+    padding-bottom: 12%;
+  padding: 1%;
+  border-radius: 40%;
+  line-height: 100%;
+}
+.name{
+    display: flex;
+    justify-content: center;
+}
+.menu1{
+    display:flex ;
+    justify-content: space-evenly;
+    margin: 2%;
+}
+img{
+    border-radius: 20%;
+}
+.menu2{
+    display:flex ;
+    justify-content: space-evenly;
+}
